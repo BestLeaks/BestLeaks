@@ -1,5 +1,5 @@
 # BestLeaks
-![BestLeaks github stats](https://github-readme-stats.vercel.app/api?username=BestLeaks)
+
 
 <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
 
@@ -7,8 +7,7 @@
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=BestLeaks)
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=BestLeaks&show_icons=true&hide_border=true">
+![BestLeaks github stats](https://github-readme-stats.vercel.app/api?username=BestLeaks&show_icons=true&theme=radical)
 
 ## 🧐 About
 
@@ -24,9 +23,11 @@
     </div>
 
 Most Used Lauguages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BestLeaks)](https://github.com/BestLeaks/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BestLeaks&layout=compact)](https://github.com/BestLeaks/github-readme-stats)
 
 Pinned Reposotories
 None
+
+[![BestLeaks wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BestLeaks&layout=compact)](https://github.com/BestLeaks/github-readme-stats)
 
 ⭐️ From [BestLeaks](https://github.com/BestLeaks)
