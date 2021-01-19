@@ -1,8 +1,5 @@
 # BestLeaks
-<p align="center">
- <img width="100px" src="https://res.cloudinary.com/BestLeaks/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
- <h2 align="center">Profile</h2>
-</p>
+![BestLeaks github stats](https://github-readme-stats.vercel.app/api?username=BestLeaks)
 
 <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
 
@@ -26,5 +23,10 @@
         <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
     </div>
 
+Most Used Lauguages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BestLeaks)](https://github.com/BestLeaks/github-readme-stats)
+
+Pinned Reposotories
+None
 
 ⭐️ From [BestLeaks](https://github.com/BestLeaks)
