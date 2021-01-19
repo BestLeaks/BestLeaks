@@ -28,6 +28,6 @@ Most Used Lauguages
 Pinned Reposotories
 None
 
-[![BestLeaks wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BestLeaks&layout=compact)](https://github.com/BestLeaks/github-readme-stats)
+[![BestLeaks wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BestLeaks&layout=compact)]
 
 ⭐️ From [BestLeaks](https://github.com/BestLeaks)
