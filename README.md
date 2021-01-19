@@ -3,7 +3,7 @@
 
 <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=BestLeaks)
+![times my profile was visited](https://visitor-badge.laobi.icu/badge?page_id=BestLeaks)
 𝗜'𝗺 [BestLeaks](https://github.com/BestLeaks)！Im a coder and im good at it. I love to make open sourced projects. Im also running something called [Mass Projects](https://github.com/Mass-Projects)!
 
 
