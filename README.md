@@ -5,7 +5,7 @@
 
 ![times my profile was visited](https://visitor-badge.laobi.icu/badge?page_id=BestLeaks)
 
-𝗜'𝗺 [BestLeaks](https://github.com/BestLeaks)！Im a coder and im good at it. I love to make open sourced projects. Im also running something called [Mega Utilities](https://github.com/RoleplayUtilities)!
+𝗜'𝗺 [BestLeaks](https://github.com/BestLeaks)！Im a coder and im good at it. I love to make open sourced projects. Im also running something called [Mega Utilities](https://github.com/Roleplay-Utilities)!
 
 
 ![BestLeaks github stats](https://github-readme-stats.vercel.app/api?username=BestLeaks&show_icons=true&theme=radical)
